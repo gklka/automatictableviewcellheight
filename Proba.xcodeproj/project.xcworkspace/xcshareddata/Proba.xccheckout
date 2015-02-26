@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7D9B736B-B74E-46D1-AB05-4E0B55638661</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Proba</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>140FA88A273FF5AE9CC1F4FAA73EBE3F13B313E8</key>
+		<string>https://github.com/gklka/automatictableviewcellheight.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Proba.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>140FA88A273FF5AE9CC1F4FAA73EBE3F13B313E8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gklka/automatictableviewcellheight.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>140FA88A273FF5AE9CC1F4FAA73EBE3F13B313E8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>140FA88A273FF5AE9CC1F4FAA73EBE3F13B313E8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>automatictableviewcellheight</string>
+		</dict>
+	</array>
+</dict>
+</plist>
